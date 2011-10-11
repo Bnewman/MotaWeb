@@ -10,7 +10,7 @@ namespace MvcApplicationMSTest.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Test of the Bamboo CI!";
+            ViewBag.Message = "Test of the Bamboo CI";
 
             return View();
         }
