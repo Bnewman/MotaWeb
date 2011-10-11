@@ -22,7 +22,7 @@ namespace MvcApplicationMSTest.Tests.Controllers
             ViewResult result = controller.Index() as ViewResult;
 
             // Assert
-            Assert.AreEqual("Welcome to ASP.NET MVC!", result.ViewBag.Message);
+            Assert.AreEqual("Test of the Bamboo CI", result.ViewBag.Message);
         }
 
         [TestMethod]
