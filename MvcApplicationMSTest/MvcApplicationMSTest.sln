@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplicationMSTest", "MvcApplicationMSTest\MvcApplicationMSTest.csproj", "{F0A72F5E-415A-4DCF-805D-B429D98A74A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplicationMSTest.Tests", "MvcApplicationMSTest.Tests\MvcApplicationMSTest.Tests.csproj", "{5F85C6D9-AD7B-4DD3-988B-860914F33191}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplicationMSTest.NUnit", "MvcApplicationMSTest.NUnit\MvcApplicationMSTest.NUnit.csproj", "{30D436C3-675C-4440-9FB3-6CA6A36F4DC1}"
 EndProject
 Global
@@ -17,10 +15,6 @@ Global
 		{F0A72F5E-415A-4DCF-805D-B429D98A74A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0A72F5E-415A-4DCF-805D-B429D98A74A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0A72F5E-415A-4DCF-805D-B429D98A74A2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5F85C6D9-AD7B-4DD3-988B-860914F33191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5F85C6D9-AD7B-4DD3-988B-860914F33191}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5F85C6D9-AD7B-4DD3-988B-860914F33191}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5F85C6D9-AD7B-4DD3-988B-860914F33191}.Release|Any CPU.Build.0 = Release|Any CPU
 		{30D436C3-675C-4440-9FB3-6CA6A36F4DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{30D436C3-675C-4440-9FB3-6CA6A36F4DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30D436C3-675C-4440-9FB3-6CA6A36F4DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
