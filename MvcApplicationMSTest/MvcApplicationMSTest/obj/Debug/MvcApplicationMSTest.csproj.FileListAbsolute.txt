@@ -1,0 +1,7 @@
+D:\Development\GitRepositories\MotaWeb\MvcApplicationMSTest\MvcApplicationMSTest\bin\MvcApplicationMSTest.dll
+D:\Development\GitRepositories\MotaWeb\MvcApplicationMSTest\MvcApplicationMSTest\bin\MvcApplicationMSTest.pdb
+D:\Development\GitRepositories\MotaWeb\MvcApplicationMSTest\MvcApplicationMSTest\bin\EntityFramework.dll
+D:\Development\GitRepositories\MotaWeb\MvcApplicationMSTest\MvcApplicationMSTest\bin\EntityFramework.xml
+D:\Development\GitRepositories\MotaWeb\MvcApplicationMSTest\MvcApplicationMSTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\GitRepositories\MotaWeb\MvcApplicationMSTest\MvcApplicationMSTest\obj\Debug\MvcApplicationMSTest.dll
+D:\Development\GitRepositories\MotaWeb\MvcApplicationMSTest\MvcApplicationMSTest\obj\Debug\MvcApplicationMSTest.pdb

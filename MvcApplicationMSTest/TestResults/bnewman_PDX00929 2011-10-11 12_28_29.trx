@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="08a2f1f5-6870-4093-aae0-2466be318108" name="bnewman@PDX00929 2011-10-11 12:28:29" runUser="OBS\bnewman" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="fc66e527-3609-438e-9a33-9e0257231eaa">
+    <Deployment runDeploymentRoot="bnewman_PDX00929 2011-10-11 12_28_29">
+      <DeploymentItem filename="D:\Development\GitRepositories\MotaWeb\MvcApplicationMSTest\MvcApplicationMSTest\bin\MvcApplicationMSTest.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-10-11T12:28:29.9693028-07:00" queuing="2011-10-11T12:28:34.0753028-07:00" start="2011-10-11T12:28:34.2213028-07:00" finish="2011-10-11T12:28:37.7433028-07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Index" storage="d:\development\gitrepositories\motaweb\mvcapplicationmstest\mvcapplicationmstest.tests\bin\debug\mvcapplicationmstest.tests.dll" id="d014210f-98ae-2528-887a-21d2aefd0443">
+      <Execution id="0cc49e66-d3cd-4626-8eb1-e3f56f8ffeba" />
+      <TestMethod codeBase="D:/Development/GitRepositories/MotaWeb/MvcApplicationMSTest/MvcApplicationMSTest.Tests/bin/Debug/MvcApplicationMSTest.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MvcApplicationMSTest.Tests.Controllers.HomeControllerTest, MvcApplicationMSTest.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+    <UnitTest name="About" storage="d:\development\gitrepositories\motaweb\mvcapplicationmstest\mvcapplicationmstest.tests\bin\debug\mvcapplicationmstest.tests.dll" id="2c852ead-37fb-8f8b-7884-37e5a93c76fe">
+      <Execution id="7cf6146b-0706-4307-a6b7-d1d084b11dca" />
+      <TestMethod codeBase="D:/Development/GitRepositories/MotaWeb/MvcApplicationMSTest/MvcApplicationMSTest.Tests/bin/Debug/MvcApplicationMSTest.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MvcApplicationMSTest.Tests.Controllers.HomeControllerTest, MvcApplicationMSTest.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="About" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2c852ead-37fb-8f8b-7884-37e5a93c76fe" executionId="7cf6146b-0706-4307-a6b7-d1d084b11dca" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d014210f-98ae-2528-887a-21d2aefd0443" executionId="0cc49e66-d3cd-4626-8eb1-e3f56f8ffeba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="7cf6146b-0706-4307-a6b7-d1d084b11dca" testId="2c852ead-37fb-8f8b-7884-37e5a93c76fe" testName="About" computerName="PDX00929" duration="00:00:01.5433981" startTime="2011-10-11T12:28:34.7453028-07:00" endTime="2011-10-11T12:28:37.3433028-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7cf6146b-0706-4307-a6b7-d1d084b11dca">
+    </UnitTestResult>
+    <UnitTestResult executionId="0cc49e66-d3cd-4626-8eb1-e3f56f8ffeba" testId="d014210f-98ae-2528-887a-21d2aefd0443" testName="Index" computerName="PDX00929" duration="00:00:00.1945853" startTime="2011-10-11T12:28:37.4073028-07:00" endTime="2011-10-11T12:28:37.6053028-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0cc49e66-d3cd-4626-8eb1-e3f56f8ffeba">
+    </UnitTestResult>
+  </Results>
+</TestRun>
