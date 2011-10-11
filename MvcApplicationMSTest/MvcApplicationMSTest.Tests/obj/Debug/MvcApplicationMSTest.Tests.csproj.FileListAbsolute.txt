@@ -1,8 +1,0 @@
-D:\Development\GitRepositories\MotaWeb\MvcApplicationMSTest\MvcApplicationMSTest.Tests\bin\Debug\MvcApplicationMSTest.Tests.dll.config
-D:\Development\GitRepositories\MotaWeb\MvcApplicationMSTest\MvcApplicationMSTest.Tests\bin\Debug\MvcApplicationMSTest.Tests.dll
-D:\Development\GitRepositories\MotaWeb\MvcApplicationMSTest\MvcApplicationMSTest.Tests\bin\Debug\MvcApplicationMSTest.Tests.pdb
-D:\Development\GitRepositories\MotaWeb\MvcApplicationMSTest\MvcApplicationMSTest.Tests\bin\Debug\MvcApplicationMSTest.dll
-D:\Development\GitRepositories\MotaWeb\MvcApplicationMSTest\MvcApplicationMSTest.Tests\bin\Debug\MvcApplicationMSTest.pdb
-D:\Development\GitRepositories\MotaWeb\MvcApplicationMSTest\MvcApplicationMSTest.Tests\obj\Debug\ResolveAssemblyReference.cache
-D:\Development\GitRepositories\MotaWeb\MvcApplicationMSTest\MvcApplicationMSTest.Tests\obj\Debug\MvcApplicationMSTest.Tests.dll
-D:\Development\GitRepositories\MotaWeb\MvcApplicationMSTest\MvcApplicationMSTest.Tests\obj\Debug\MvcApplicationMSTest.Tests.pdb
